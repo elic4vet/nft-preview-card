@@ -29,11 +29,11 @@ Users should be able to:
 
 Here are some screenshots of the app :
 
-![](./src/assets/images/nft-preview-card.jpg)
+![](./src/assets/images/nft-preview-card.png)
 
 Active state :
 
-![](./src/assets/images/nft-preview-card-active%20state.jpg)
+![](./src/assets/images/nft-preview-card-active%20state.png)
 
 ### Links
 
