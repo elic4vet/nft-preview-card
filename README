@@ -55,7 +55,7 @@ Active state :
 
 I learned more about flexbox and grid. I also learned how to use styled components. I also learned how to use the :hover pseudo class and how to use the transform property.
 
-````css
+```css
 .view {
   transition: 0.5s ease;
   opacity: 0;
@@ -67,8 +67,10 @@ I learned more about flexbox and grid. I also learned how to use styled componen
   text-align: center;
   color: var(--white);
   margin-top: 20px;
-}
-```css .overlay {
+```
+
+```css
+.overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -81,7 +83,6 @@ I learned more about flexbox and grid. I also learned how to use styled componen
   align-items: center;
 }
 ```
-````
 
 ### Continued development
 
@@ -98,3 +99,7 @@ I will continue to learn more about flexbox and grid. I will also learn more abo
 - Website - [Elisabeth Erkekoglou ](https://www.linkedin.com/in/eerkekoglou/)
 - Frontend Mentor - [@elic4vet](https://www.frontendmentor.io/profile/elic4vet)
 - Instagram - [@elisa.codes23](https://www.instagram.com/elisa.codes23/)
+
+```
+
+```
