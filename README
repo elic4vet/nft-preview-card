@@ -62,7 +62,7 @@ To see how you can add code snippets, see below:
 ```
 
 ```css
-.view {
+view {
   transition: 0.5s ease;
   opacity: 0;
   position: absolute;
@@ -73,10 +73,11 @@ To see how you can add code snippets, see below:
   text-align: center;
   color: var(--white);
   margin-top: 20px;
+}
 ```
 
 ```css
-.overlay {
+overlay {
   position: absolute;
   top: 0;
   left: 0;
