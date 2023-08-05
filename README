@@ -14,6 +14,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,7 +30,6 @@ Users should be able to:
 Here are some screenshots of the app :
 
 ![](./src/assets/images/nft-preview-card-desktop.png)
-![](./src/assets/images/nft-preview-card-active%20state.png)
 
 Active state :
 
@@ -54,6 +54,12 @@ Active state :
 ### What I learned
 
 I learned more about flexbox and grid. I also learned how to use styled components. I also learned how to use the :hover pseudo class and how to use the transform property.
+
+To see how you can add code snippets, see below:
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
 
 ```css
 .view {
