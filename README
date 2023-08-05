@@ -53,11 +53,11 @@ Active state :
 
 ### What I learned
 
-I learned more about flexbox and grid. I also learned how to use styled components. I also learned how to use the :hover pseudo class and how to use the transform property.
+I learned more about flexbox and Grid. I also learned how to use styled-components. I also learned how to use the:hover pseudo-class and how to use the transform property.
 
 To see how you can add code snippets, see below:
 
-```html
+```HTML
 <h1>Some HTML code I'm proud of</h1>
 ```
 
@@ -93,13 +93,13 @@ overlay {
 
 ### Continued development
 
-I will continue to learn more about flexbox and grid. I will also learn more about styled components. I will also learn more about the transform property.
+I will continue to learn more about Flexbox and grid. I will also learn more about styled-components. I will also know more about the transform property.
 
 ### Useful resources
 
-- [Color overlay on hover image ](https://stackoverflow.com/questions/40292168/color-overlay-on-hover-image) - This helped me to understand how to use the overlay on css. I really liked this pattern and will use it going forward.
+- [Color overlay on hover image ](https://stackoverflow.com/questions/40292168/color-overlay-on-hover-image) - This helped me to understand how to use the overlay on CSS. I really liked this pattern and will use it going forward.
 
-- [CSS Image Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This is an amazing article which helped me understand better this concept.
+- [CSS Image Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This is a fantastic article that helped me understand this concept better.
 
 ## Author
 
