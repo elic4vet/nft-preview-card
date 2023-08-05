@@ -29,7 +29,7 @@ Users should be able to:
 
 Here are some screenshots of the app :
 
-![](./src/assets/images/nft-preview-card-desktop.png)
+![](./src/assets/images/nft-preview-card.png)
 
 Active state :
 
